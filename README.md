@@ -1,0 +1,2 @@
+# pagesInspection
+Inspect pages
